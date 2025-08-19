@@ -1,3 +1,3 @@
-Latest version: v1.0.1
-Release date: 2025-08-19 03:00:22
+Latest version: v1.0.2
+Release date: 2025-08-19 03:55:53
 Download URL: https://github.com/junhyun-hwang/aws-s3-explorer/releases/latest/download/AWSS3Explorer.msi
